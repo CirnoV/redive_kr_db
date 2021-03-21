@@ -1,0 +1,3 @@
+[submodule "master_db"]
+	path = master_db
+	url = https://github.com/HerDataSam/redive_kr_db_diff.git
